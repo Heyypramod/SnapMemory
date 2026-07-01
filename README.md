@@ -1,4 +1,4 @@
-# Snapchat Memories Downloader GUI
+# SnapMemory Downloader GUI
 
 A user-friendly Windows desktop application to download and preserve your Snapchat memories with their original metadata, including dates and location information.
 
@@ -56,14 +56,14 @@ For developers or advanced users:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ethanwheatthin/Snapchat_Memories_Downloader_GUI.git
-cd Snapchat_Memories_Downloader_GUI
+(https://github.com/Heyypramod/SnapMemory.git)
+cd SnapMemory
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the application
-python download_snapchat_memories_gui.py
+python download_SnapMemory
 ```
 
 ## 📥 How to Get Your Snapchat Data
