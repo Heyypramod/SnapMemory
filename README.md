@@ -11,7 +11,7 @@ A user-friendly Windows desktop application to download and preserve your Snapch
 
 **YouTube Video Tutorial** - https://www.youtube.com/watch?v=DpVOyY-MCLQ&t=1s
 
-1. **Get the `.exe`** from the [latest release](https://github.com/ethanwheatthin/Snapchat_Memories_Downloader_GUI/releases)
+1. **Get the `.exe`** from the [latest release]((https://github.com/Heyypramod/SnapMemory.git))
 2. **Install recommended tools** (optional but highly recommended):
    - [VLC Media Player](https://www.videolan.org/) — for video format conversion
    - [FFmpeg](https://www.ffmpeg.org/download.html) — for enhanced video overlay merging
@@ -43,7 +43,7 @@ This tool downloads all your Snapchat memories using the `memories_history.json`
 
 ### Using the Executable (Recommended)
 
-1. **Download** the latest `.exe` from the [releases page](https://github.com/ethanwheatthin/Snapchat_Memories_Downloader_GUI/releases)
+1. **Download** the latest `.exe` from the [releases page](https://github.com/Heyypramod/SnapMemory.git)
 2. **Install optional tools** for best results:
    - **VLC Media Player** ([download](https://www.videolan.org/)) — enables video conversion to H.264
    - **FFmpeg** ([download](https://www.ffmpeg.org/download.html)) — enhances video overlay merging
@@ -282,7 +282,6 @@ python -m pytest tests/ -v --tb=short
 ## 🤝 Contributing
 
 Contributions welcome! Feel free to:
-- Report bugs via [GitHub Issues](https://github.com/ethanwheatthin/Snapchat_Memories_Downloader_GUI/issues)
 - Suggest features
 - Submit pull requests
 
@@ -294,16 +293,6 @@ This project is provided as-is for personal use. Use responsibly and in accordan
 
 This tool is not affiliated with, endorsed by, or connected to Snap Inc. or Snapchat. It is an independent utility designed to help users download their own personal data from Snapchat's official data export feature.
 
-
-## Star History
-
-<a href="https://www.star-history.com/?repos=ethanwheatthin%2FSnapchat_Memories_Downloader_GUI&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ethanwheatthin/Snapchat_Memories_Downloader_GUI&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ethanwheatthin/Snapchat_Memories_Downloader_GUI&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ethanwheatthin/Snapchat_Memories_Downloader_GUI&type=date&legend=top-left" />
- </picture>
-</a>
 
 ---
 
